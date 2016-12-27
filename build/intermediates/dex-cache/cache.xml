@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="K:\Android Projects\Japs-Attack-Ceylon--Android-App1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f2f6f1aab6f4baa7dda8e315cbf89dd145b830">
+        <dex dex="K:\Android Projects\Japs-Attack-Ceylon--Android-App1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1a89c1d6f9349e984d523ea706e25cb585a82654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\Android Projects\JapHomeoKps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c0ac241b7052670a872582d042a1b89c6737a58">
+        <dex dex="K:\Android Projects\JapHomeoKps\app\build\intermediates\pre-dexed\debug\instant-run_707af56aea22b5bab385eb9c3e495d19e15b458d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\Android Projects\JapHomeoKps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccc7d506ca79642e6e0492e4322e3246bf1029ba">
+        <dex dex="K:\Android Projects\JapHomeoKps\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9a152f1cae5a1a53ced724d14c4e3d12cb2018a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\Android Projects\Japs-Attack-Ceylon--Android-App1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40108a1438bdfcfa1af34909b3320884bf3d8674">
+        <dex dex="K:\Android Projects\Japs-Attack-Ceylon--Android-App1\app\build\intermediates\pre-dexed\debug\instant-run_6bd3f2c3cd0497b3f43823284a2b3fff51d80f96.jar" />
+    </item>
+
+</items>
